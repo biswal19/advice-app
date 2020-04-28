@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/advice-app/static/css/main.af3634ab.chunk.css",
+    "main.css": "/advice-app/static/css/main.f13bf65d.chunk.css",
     "main.js": "/advice-app/static/js/main.42d7e87c.chunk.js",
     "main.js.map": "/advice-app/static/js/main.42d7e87c.chunk.js.map",
     "runtime-main.js": "/advice-app/static/js/runtime-main.bc40df97.js",
@@ -8,15 +8,15 @@
     "static/js/2.4b3513ad.chunk.js": "/advice-app/static/js/2.4b3513ad.chunk.js",
     "static/js/2.4b3513ad.chunk.js.map": "/advice-app/static/js/2.4b3513ad.chunk.js.map",
     "index.html": "/advice-app/index.html",
-    "precache-manifest.1dd21beaf308c18ba55dc76f4b92c6c6.js": "/advice-app/precache-manifest.1dd21beaf308c18ba55dc76f4b92c6c6.js",
+    "precache-manifest.df7a5c3f47b465c6c444ce948c538c63.js": "/advice-app/precache-manifest.df7a5c3f47b465c6c444ce948c538c63.js",
     "service-worker.js": "/advice-app/service-worker.js",
-    "static/css/main.af3634ab.chunk.css.map": "/advice-app/static/css/main.af3634ab.chunk.css.map",
+    "static/css/main.f13bf65d.chunk.css.map": "/advice-app/static/css/main.f13bf65d.chunk.css.map",
     "static/js/2.4b3513ad.chunk.js.LICENSE.txt": "/advice-app/static/js/2.4b3513ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bc40df97.js",
     "static/js/2.4b3513ad.chunk.js",
-    "static/css/main.af3634ab.chunk.css",
+    "static/css/main.f13bf65d.chunk.css",
     "static/js/main.42d7e87c.chunk.js"
   ]
 }
